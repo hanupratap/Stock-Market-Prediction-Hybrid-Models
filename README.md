@@ -11,10 +11,7 @@ This repository explores the prediction of S&P 500 index using a hybrid approach
 - [Models](#models)
     - [SARIMA](#sarima)
     - [CNN-LSTM](#cnn-lstm)
-- [Usage](#usage)
-- [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -33,3 +30,7 @@ SARIMA (Seasonal Autoregressive Integrated Moving Average) is a statistical mode
 ### CNN-LSTM
 
 CNN-LSTM is a deep learning model that combines Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks. CNNs extract features from the data, while LSTMs capture temporal dependencies, making them suitable for time series data.
+
+## Contributing
+
+Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
